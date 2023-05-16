@@ -1,6 +1,8 @@
 # PistachioLinux
-Directory of Pistachio Linux resources, and docs
+Directory of Pistachio Linux resources, docs etc. There's a roadmap and issue tracker here too.
 
+## Meta resources
 [Website](https://linux.pistasjis.net) | [Docs](https://github.com/PistachioLinux/PistachioLinux/wiki)
 
-You can report bugs in the Issues tab (I want this to be a catch-all place for bugs)
+## Developer resources
+[rootfs](https://github.com/PistachioLinux/rootfs) | [DistroLauncher/Pistachio Linux App](https://github.com/PistachioLinux/DistroLauncher) | [Website source code](https://github.com/PistachioLinux/website)
