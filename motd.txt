@@ -1,0 +1,1 @@
+MOTD: Debian 12 released, Pistachio Linux runs Debian testing but you might want to update (run sudo apt update && sudo apt upgrade) 
